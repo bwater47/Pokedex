@@ -8,7 +8,7 @@ Our Pokedex contains several different generations of Pokemon. On our home page,
 Shields.io
 
 ## Visuals
-Link: <a href="https://DallasGiles.github.io/pokedex/" alt="live site link">Live Link</a>
+Link: <a href="https://bwater47.github.io/Pokedex/" alt="live site link">Live Link</a>
 
 Home page screenshots:
 ![img](./assets/images/Home1.png)
